@@ -20,6 +20,10 @@ This is a simple Auto Clicker application built using Python and Tkinter GUI lib
 5. Click the "Start Autoclicker" button to initiate the auto clicking.
 6. Use the hotkey (Shift + Alt + Q) to start/stop the auto clicker.
 
+## Theme
+
+The theme used in this application is sourced from [Azure ttk theme](https://github.com/rdbende/Azure-ttk-theme) by [rdbende](https://github.com/rdbende). 
+
 ## Notes
 
 - Ensure that the application is run with the necessary permissions to allow automated mouse clicking.
