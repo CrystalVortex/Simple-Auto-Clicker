@@ -29,7 +29,7 @@ The theme used in this application is sourced from [Azure ttk theme](https://git
 - Ensure that the application is run with the necessary permissions to allow automated mouse clicking.
 - Use responsibly and avoid excessive or inappropriate use.
 
-## Requirements
+## Requirements (for building)
 
 - Python 3.x
 - Tkinter (comes pre-installed with most Python installations)
